@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyCV</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">
+        Phone. 010-3292-7923\nEmail. sjman223@naver.com
+    </string>
+    <string name="profile">
+        First Name: Seong Jun\n\nLast Name: Kwak\n\nSex: male\n\nDate of Birth: 1998.02.23\n\nAddress: Gunsan-si, Jeollabuk-do,\n\t\t\t\t\t\t\t\t Republic of Korea\n\n
+    </string>
+    <string name="education" >
+        2013 - 2016\n\n\t\t\tGunsan Dong High School\n\n\n
+        2016 - 2022\n\n\t\t\tJeonbuk National University\n\n\t\t\t: Bachelor of Science in\n\t\t\t\tIT Informaion Engineering
+    </string>
+    <string name="activities">
+        2018 - 2019\n\n
+        \t\t\tInformation System Management\n\t\t\tat Republic of Korea Air Force\n\n\n2019\n\n
+        \t\t\tProgramming education for\n\t\t\tBaengnyeong elementary school\n\t\t\tstudent
+    </string>
+    <string name="certificate">
+        2016\n\n
+        \t\tDriver\'s License\n\n2017\n\n\t\tInformation Processing Technician
+    </string>
+    <string name="award">
+        2014\n\n
+        \t\tCertificate of Commendation\n\t\tfrom Gunsan City Mayor\n\n\t\t: Society Volunteer Activity
+    </string>
+</resources>
